@@ -2,7 +2,7 @@ import java.util.*;
 class Circle
 {
 double r;
-double areac;
+double AREACIRCLE;
 void areac()
 {
 areac = 3.14*r*r; 
